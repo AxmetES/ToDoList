@@ -1,0 +1,6 @@
+black==23.9.1
+environs==9.5.0
+pip-chill==1.0.3
+psycopg2-binary==2.9.7
+pyinstaller==5.13.2
+sqlalchemy==2.0.20
